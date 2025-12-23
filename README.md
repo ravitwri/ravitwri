@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-I'm Ravi, an aspiring data analyst passionate about turning data into actionable insights.
+I'm Ravi, a data analyst based in India.
 
-I'm currently learning and building my skills from scratch. Every day, I'm diving deeper into data, and if a question pops into my head about a dataset, chances are I'll explore it, analyze it, and share what I find.
+I'm currently learning and building my skills from scratch. If a question pops into my head about a dataset, chances are I'll explore it, analyze it, and share what I find.
 
-My main tech stack right now:
-- Python (pandas, numpy, matplotlib, seaborn)
-- SQL
-- Excel / Google Sheets
-- PowrBI
-
-I've got a few learning projects pinned (and more in progress), but my favorites so far are [mention 1-2 if you have, e.g., "my sales data dashboard" or "exploratory analysis on movie datasets"]. I'm always adding new ones as I learn.
+My main tech stack is Python, SQL, Excel and PowerBI
 
 I've built a handful of public repos so far, but privately? Way more experiments and notebooks. Goal: 50+ projects by next year!
 
