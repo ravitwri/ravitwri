@@ -12,7 +12,7 @@ If you want to follow my learning journey or get tips on starting in data analyt
 
 Fun Facts:
 - I love coffee and puzzles
-- I don't like 
+- I like building things that are simple, useful and easy to understand
 - Favorite way to unwind is watching anime
 - Hobbies: anime, gym, building things
 
