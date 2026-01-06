@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm [Ravi](ravi.twri), a data analyst based in India.
+I'm [Ravi](ravi.twri), a developer based in India.
 
 I'm currently learning and building my skills from scratch. If an idea pops into my head, chances are I'll build it, and share what I find.
 
