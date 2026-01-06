@@ -2,7 +2,7 @@
 
 I'm [Ravi](ravi.twri), a data analyst based in India.
 
-I'm currently learning and building my skills from scratch. If a question pops into my head about a dataset, chances are I'll explore it, analyze it, and share what I find.
+I'm currently learning and building my skills from scratch. If an idea pops into my head, chances are I'll build it, and share what I find.
 
 My main tech stack is Python, SQL, Excel and PowerBI
 
